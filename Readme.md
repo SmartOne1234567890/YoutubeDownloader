@@ -29,3 +29,4 @@ Note: This application requires .NET Core runtime for desktop apps, which you ca
 ![list](.screenshots/list.png)
 ![single](.screenshots/single.png)
 ![multiple](.screenshots/multiple.png)
+[![Run on Repl.it](https://repl.it/badge/github/Tyrrrz/YoutubeDownloader)](https://repl.it/github/Tyrrrz/YoutubeDownloader)
